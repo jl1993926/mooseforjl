@@ -1,0 +1,2 @@
+app_name = mooseforjl
+cli_args = '--error'
